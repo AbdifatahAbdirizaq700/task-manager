@@ -18,11 +18,13 @@ The following dependencies are used in this project:
 ### How to Run 
 
 2. **Install Dependencies:**
-   ```bash
+   ```frontend
    
    npm run dev  
-   npm install
+  
    ```
+   server 
+    ``` npm start
 
 3. **Run the Application:**
    ```bash
