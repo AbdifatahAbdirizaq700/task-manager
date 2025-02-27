@@ -19,6 +19,8 @@ The following dependencies are used in this project:
 
 2. **Install Dependencies:**
    ```bash
+   
+   npm run dev  
    npm install
    ```
 
